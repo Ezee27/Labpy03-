@@ -55,11 +55,11 @@ Setelah perulangan selesai, baris ini menampilkan pesan `"Selesai"` untuk menand
 
 Code program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/db2b670f8d7f34ed4a0ae286dd7a3d3a853fed97/Image/latihan1.png)
+![Screenshot (55)](https://github.com/user-attachments/assets/3d70179a-54ad-4d7e-9c16-c03081f71cfa)
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/db2b670f8d7f34ed4a0ae286dd7a3d3a853fed97/Image/Screenshot%20From%202024-10-29%2011-04-41.png)
+![Screenshot (60)](https://github.com/user-attachments/assets/1677c6b9-7409-48c8-82c4-f60741eb537a)
 
 # Latihan2.py
 
@@ -120,11 +120,11 @@ Baris-baris ini mencetak laba untuk masing-masing bulan, dan total laba.
 
 Code program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/d19ff542f8f6a7e909f4d2828d9cfe78f1c24c86/Image/latihan2.png)
+![Screenshot (57)](https://github.com/user-attachments/assets/fc4b809e-5c01-4fd3-9f8e-f9bce548b1e2)
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/d19ff542f8f6a7e909f4d2828d9cfe78f1c24c86/Image/Screenshot%20From%202024-10-29%2011-44-10.png)
+![Screenshot (61)](https://github.com/user-attachments/assets/1025a42f-9c67-4d7f-8da3-d143dcafa886)
 
 # Latihan3.py
 
@@ -202,8 +202,8 @@ Jika input pengguna tidak sesuai dengan opsi yang ada (1 atau 2), maka program a
 
 Code program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/2d34fe183a3296798cef49d24db50a2c7efd5372/Image/latihan3.png)
+![Screenshot (62)](https://github.com/user-attachments/assets/d65b58cf-a9b9-4961-b14b-f522f49c3c88)
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/2d34fe183a3296798cef49d24db50a2c7efd5372/Image/Screenshot%20From%202024-10-29%2012-06-49.png)
+![Screenshot (63)](https://github.com/user-attachments/assets/5f0ef018-180b-4920-aad9-e14fe663b0e2)
