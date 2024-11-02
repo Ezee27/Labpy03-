@@ -206,4 +206,4 @@ Code program tersebut:
 
 Hasil program tersebut:
 
-![Screenshot (63)](https://github.com/user-attachments/assets/5f0ef018-180b-4920-aad9-e14fe663b0e2)
+![Screenshot (66)](https://github.com/user-attachments/assets/5e810840-0657-4b64-8620-e2bf21ac910c)
