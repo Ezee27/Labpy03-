@@ -9,7 +9,7 @@ Matkul: Bahasa Pemrograman
 
 # Soal latihan
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/ead01c1a56b760fa2741e76cda7776d524b1c0e9/Image/Screenshot%20From%202024-10-29%2011-15-44.png)
+![Screenshot From 2024-10-29 11-15-44](https://github.com/user-attachments/assets/0432fb29-ccd9-4066-b7c6-84ab13f4304c)
 
 # Latihan1.py
 
